@@ -2,4 +2,7 @@
   --white: #fff;
   --black: #0d1117;
   --body-font-size: 16px;
+  --bg-color: #ffffff;
+  --font-color: #121212;
+  color-scheme: light dark;
 }
